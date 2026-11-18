@@ -23,7 +23,7 @@ R code for the manuscript "An Empirical Framework for Identifying Indicators of 
 ## Data
 
 Raw data are not included. Place the following in `data_raw/`:
-
+Author can provide input data if you request
 - Wildfire damage ledger 2000–2025 (`산불피해대장`, Korea Forest Service)
 - Suppression resource history (`진화자원이력.xlsx`, Korea Forest Service)
 - KMA ASOS daily observations and station metadata (`kma_asos_daily.csv`, `station_meta.csv`), downloadable with `R/00_download.R`
