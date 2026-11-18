@@ -1,0 +1,10 @@
+# data (not redistributed)
+/data_raw/
+/data_out/
+/figs/
+
+# R session / credentials
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron

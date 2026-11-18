@@ -1,0 +1,7 @@
+# 이 파일을 복사해서 .Renviron 으로 저장하고 실제 키를 넣으세요.
+#   cp .Renviron.example .Renviron
+# .Renviron 은 .gitignore 에 등록되어 있으므로 공개 저장소에 올라가지 않습니다.
+# R 을 재시작해야 반영됩니다.
+
+KMA_KEY=여기에_기상청_API허브_키
+DATAGO_KEY=여기에_공공데이터포털_Decoding키
