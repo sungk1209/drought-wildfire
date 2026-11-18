@@ -41,3 +41,7 @@ source("R/run_all.R")
 Outputs are written to `data_out/` (panel, tables, report) and `figs/revision_final/` (figures).
 
 Required packages: data.table, sandwich, lmtest, quantreg, MASS, readxl, tidyverse, patchwork, scales.
+
+## License
+
+MIT License. See `LICENSE`.
